@@ -1,6 +1,6 @@
 [gd_scene load_steps=9 format=3 uid="uid://dst38j4kbd2yg"]
 
-[ext_resource type="Script" uid="uid://c2m7d1nuxv25n" path="res://scenes/quests/story_quests/spectral_code__story/2_combat/combat_components/puertas.gd" id="1_a2hvp"]
+[ext_resource type="Script" uid="uid://c2m7d1nuxv25n" path="res://scenes/quests/story_quests/spectral_code__story/2_combat/combat_components/Scripts/puertas.gd" id="1_a2hvp"]
 [ext_resource type="Texture2D" uid="uid://de368gp0c1eub" path="res://scenes/quests/story_quests/spectral_code__story/0_intro/intro_components/TERRENO COSTA/Terreno Sierra.png" id="1_e23c2"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_a2hvp"]
